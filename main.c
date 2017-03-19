@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("1.1 commit master branch\n");
-  
+    printf("2 commit master branch\n");
+    
     return 0;
 }
